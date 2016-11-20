@@ -47,5 +47,5 @@ module ComfyJulia
         end 
     end 
 
-    export living_replC
+    export living_repl
 end 
