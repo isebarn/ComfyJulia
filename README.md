@@ -13,10 +13,10 @@ and run
 to use the module 
 
 Exported functions are:
-* living_repl()
+* `living_repl()`
 
 
-## living_repl()
+## `living_repl()`
 
 ### Usage 
 
