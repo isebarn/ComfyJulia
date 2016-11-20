@@ -16,9 +16,11 @@ Exported functions are:
 * living_repl()
 
 
-## living_repl(filename, time [, redef_filter = true])
+## living_repl()
 
 ### Usage 
+
+    living_repl(filename, time [, redef_filter = true])
 
 This function is handy when editing a .jl file in a text editor such as Sublime Text
 
